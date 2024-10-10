@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 This module provides utility functions for operations on lists of floats.
 """
